@@ -12,8 +12,6 @@ This project utilizes Jest and @testing-library/react for robust testing.
 
 ## Testing Pyramid
 
-![Testing Pyramid](test-pyramid.png)
-
 The Testing Pyramid is a concept that suggests a strategy for distributing tests based on their type. In this project, we adhere to this strategy:
 
 - **Unit Tests (70%)**: These tests cover individual components or modules, providing quick and precise feedback.
@@ -31,6 +29,7 @@ The Testing Pyramid is a concept that suggests a strategy for distributing tests
 
 Thanks to Jest and @testing-library/react for providing powerful tools to ensure quality testing of our application.
 ______
+
 ![Testing Pyramid](test-pyramid.png)
 
 ____
@@ -48,8 +47,6 @@ ____
 [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro) - это библиотека для тестирования React-компонентов. Она фокусируется на том, как ваши компоненты взаимодействуют с DOM, делая тесты ближе к тому, как ваши пользователи взаимодействуют с вашим приложением.
 
 ## Пирамида Тестирования
-
-![Пирамида Тестирования](test-pyramid.png)
 
 Пирамида тестирования - это концепция, которая предлагает стратегию распределения тестов в зависимости от их типа. В данном проекте мы следуем этой стратегии:
 
